@@ -63,10 +63,6 @@ aea run
 other terminal
 
 ```
-echo 'recipient_aea,sender_aea,fetchai/default:0.12.0,\x08\x01\x12\x011*\x07\n\x05hello,' >> input_file
-```
-
-```
 aea interact
 ```
 
