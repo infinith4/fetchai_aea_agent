@@ -19,7 +19,8 @@ skills:
 default_ledger: fetchai
 default_routing: {}
 connection_private_key_paths: {}
-private_key_paths: {}
+private_key_paths:
+  fetchai: fetchai_private_key.txt
 logging_config:
   disable_existing_loggers: false
   version: 1

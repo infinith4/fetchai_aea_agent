@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 aea = {extras = ["all"], version = "*"}
+aiohttp = "*"
+openapi-core = "*"
 
 [dev-packages]
 
