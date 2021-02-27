@@ -42,3 +42,7 @@ aea create aea_agent
 cd aea_agent
 aea add skill fetchai/echo:0.14.0
 ```
+
+```
+aea add connection fetchai/http_server:0.16.0
+```
